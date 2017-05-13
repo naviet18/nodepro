@@ -1,0 +1,1 @@
+Note: Allowing less secure apps to access your gmail account
